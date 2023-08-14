@@ -34,5 +34,5 @@
 *://www.fixes.pub/*
 title/.*【最新版.*/
 title/.*正規品】.*/
-title/.*\d+年版】.*/
-title/.*\d+年.*/
+title/.*[0-9]+年版】.*/
+title/.*[0-9]+年.*/
