@@ -32,6 +32,6 @@
 *://gamepedia.jp/*
 *://qastack.jp/*
 *://www.fixes.pub/*
-title/【最新版/
-title/正規品】/
-title/年版】/
+title/.*【最新版.*/
+title/.*正規品】.*/
+title/.*年版】.*/
