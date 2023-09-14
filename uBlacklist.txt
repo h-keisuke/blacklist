@@ -32,6 +32,7 @@
 *://gamepedia.jp/*
 *://qastack.jp/*
 *://www.fixes.pub/*
+*://kamigame.jp/*
 title/.*【最新版.*/
 title/.*正規品】.*/
 title/.*\s+年版】.*/
