@@ -34,6 +34,7 @@
 *://www.fixes.pub/*
 *://kamigame.jp/*
 *://www.gamingdeputy.com/*
+*://gemusenta.com/*
 title/.*【最新版.*/
 title/.*正規品】.*/
 title/.*\s+年版】.*/
