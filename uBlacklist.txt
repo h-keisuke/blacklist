@@ -35,6 +35,7 @@
 *://kamigame.jp/*
 *://www.gamingdeputy.com/*
 *://gemusenta.com/*
+*://it-trend.jp/*
 title/.*【最新版.*/
 title/.*正規品】.*/
 title/.*\s+年版】.*/
