@@ -37,11 +37,8 @@
 *://gemusenta.com/*
 *://it-trend.jp/*
 *://gamewith.jp/*
-*://volx.jp/*
-title/.*【最新版.*/
-title/.*正規品】.*/
-title/.*\s+年版】.*/
-title/.*\d+年】.*/
-title/.*\d+年》.*/
-tilte/.*\d+最新】.*/
-title/.*\[\d+(年|年度)*\].*/
+*://volx.jp/*0
+title/.*[【《[].*最新.*/
+title/.*正規品.*[】》\]].*/
+title/.*\d+(年|度版).*[】》\]].*/
+tilte/.*\d+最新.*[】》\]].*/
